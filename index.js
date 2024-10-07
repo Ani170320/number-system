@@ -1,5 +1,5 @@
 /* Even and odd program 
- anirudh gadgikar*/
+ Anirudh Gadgikar*/
 
 
 
